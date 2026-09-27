@@ -1,5 +1,6 @@
 sigma,configuration,s4_engagements,s4_unsafe,s4_unsafe_trials,unsafe_per_engagement
 0.0,heuristic_published,0,0,0,0.000000
+0.0,heuristic_best,0,0,0,0.000000
 0.0,proposed_matched,0,0,0,0.000000
 0.05,heuristic_published,103,1,1,0.009709
 0.05,heuristic_best,103,1,1,0.009709
