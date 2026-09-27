@@ -1,0 +1,25 @@
+# Python / environments
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Simulation caches and scratch outputs. Large, and the driver regenerates them:
+# the cell cache alone is 3.6 GB and outputs/_repro another 2.8 GB.
+outputs/review/cells/
+outputs/_repro/
+outputs/_probe/
+outputs/phase4_stats/
+
+# Run logs. These carry absolute local paths and stack traces from failed runs;
+# the result files the article's Data Availability statement refers to are the
+# 25 CSVs in outputs/review/, which are tracked.
+outputs/review/*.txt
+
+# Conference-era planning notes. They describe the June version of this work,
+# not the code released here, and their numbers and claims are superseded by the
+# article. Remove these three lines if you would rather publish them.
+docs/
+AGENT_RULES.md
+MANIFEST.md

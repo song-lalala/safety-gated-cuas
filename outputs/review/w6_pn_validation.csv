@@ -1,0 +1,20 @@
+sigma,variant,engagements,capture_rate,auc_I,median_miss,median_tgo,capture_rate_I_ge_0.5,capture_rate_I_lt_0.5
+0.0,capturability I (proposed),53580,1.0000,nan,0.2745,4.5800,1.0000,nan
+0.0,heuristic I,46533,1.0000,nan,0.2783,4.4600,1.0000,nan
+0.1,capturability I (proposed),53379,0.9927,0.9399,0.2766,4.6200,0.9927,nan
+0.1,heuristic I,45778,1.0000,nan,0.2793,4.4800,1.0000,nan
+0.2,capturability I (proposed),56875,0.9899,0.9048,0.2794,4.6800,0.9899,nan
+0.2,heuristic I,48216,1.0000,nan,0.2806,4.5400,1.0000,nan
+0.5,capturability I (proposed),59094,0.9859,0.8458,0.2806,4.7000,0.9859,nan
+0.5,heuristic I,49805,1.0000,nan,0.2816,4.6000,1.0000,nan
+0.2,capturability I (proposed)|S1_STRAIGHT_INTRUSION,19173,1.0000,,0.2698,,,
+0.2,heuristic I|S1_STRAIGHT_INTRUSION,18989,1.0000,,0.2697,,,
+0.2,capturability I (proposed)|S2_EVASIVE_MANEUVER,16517,1.0000,,0.2895,,,
+0.2,heuristic I|S2_EVASIVE_MANEUVER,14607,1.0000,,0.2895,,,
+0.2,capturability I (proposed)|S4_RISK_ZONE_PROXIMITY,73,1.0000,,0.2726,,,
+0.2,heuristic I|S4_RISK_ZONE_PROXIMITY,72,1.0000,,0.2726,,,
+0.2,capturability I (proposed)|S5_TRACKING_LOSS,14849,1.0000,,0.2702,,,
+0.2,heuristic I|S5_TRACKING_LOSS,14548,1.0000,,0.2702,,,
+0.2,capturability I (proposed)|S6_NON_INTERCEPTABLE_TARGET,6263,0.9084,,0.1878,,,
+,abort_t_req_predicted,,0.7000,,,,,
+,abort_t_req_flown,,0.7200,,0.9200,,,

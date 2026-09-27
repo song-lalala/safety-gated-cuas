@@ -1,0 +1,5 @@
+sigma,engagements_with_next_step,sum_r_env,realized_intrusions,trials_with_intrusion,ratio_to_bound,unsafe_engagements,unsafe_inside_zone,min_clearance,median_clearance,abort_share,median_r_env_first_step,median_r_env_last_step
+0.1,521,15.0286,64,55,4.2586,35,0,0.4984,0.5718,0.9972,0.5022,1.0000
+0.2,708,20.3859,285,184,13.9802,215,0,0.3526,0.5479,0.9962,0.4992,0.9988
+0.3,795,22.6599,472,270,20.8297,411,0,0.1968,0.5288,0.9957,0.4946,0.9812
+0.5,877,24.6403,707,366,28.6929,703,0,0.0626,0.4993,0.9951,0.4826,0.8926
