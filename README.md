@@ -6,7 +6,7 @@ Simulation framework and experiment driver for
 > Contact-Based Counter-UAS Engagement," *IEEE Access* (under review,
 > Access-2026-37078).
 
-The version used in the article is tagged `v1.0`.
+The version used in the article is tagged `v1.0.1`.
 
 ## Setup
 
